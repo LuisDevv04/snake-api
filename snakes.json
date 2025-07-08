@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Ball Python",
+    "scientificName": "Python regius",
+    "venomous": false
+  },
+  {
+    "id": 2,
+    "name": "Indian Python",
+    "scientificName": "Python molurus",
+    "venomous": false
+  },
+  {
+    "id": 3,
+    "name": "Green Tree Python",
+    "scientificName": "Morelia viridis",
+    "venomous": false
+  },
+  {
+    "id": 4,
+    "name": "Bush Viper",
+    "scientificName": "Atheris squamigera",
+    "venomous": true
+  },
+  {
+    "id": 5,
+    "name": "Ball Python",
+    "scientificName": "Python regius",
+    "venomous": false
+  },
+  {
+    "id": 6,
+    "name": "Green Tree Python",
+    "scientificName": "Morelia viridis",
+    "venomous": false
+  },
+  {
+    "id": 7,
+    "name": "Ball Python",
+    "scientificName": "Python regius",
+    "venomous": false
+  },
+  {
+    "id": 8,
+    "name": "Fer-de-Lance",
+    "scientificName": "Bothrops asper",
+    "venomous": true
+  },
+  {
+    "id": 9,
+    "name": "Vine Snake",
+    "scientificName": "Ahaetulla nasuta",
+    "venomous": false
+  },
+  {
+    "id": 10,
+    "name": "Banded Krait",
+    "scientificName": "Bungarus fasciatus",
+    "venomous": true
+  },
+  {
+    "id": 11,
+    "name": "Rough Green Snake",
+    "scientificName": "Opheodrys aestivus",
+    "venomous": false
+  },
+  {
+    "id": 12,
+    "name": "Tiger Snake",
+    "scientificName": "Notechis scutatus",
+    "venomous": true
+  },
+  {
+    "id": 13,
+    "name": "Fer-de-Lance",
+    "scientificName": "Bothrops asper",
+    "venomous": true
+  },
+  {
+    "id": 14,
+    "name": "King Cobra",
+    "scientificName": "Ophiophagus hannah",
+    "venomous": true
+  },
+  {
+    "id": 15,
+    "name": "Garter Snake",
+    "scientificName": "Thamnophis sirtalis",
+    "venomous": false
+  },
+  {
+    "id": 16,
+    "name": "Tiger Snake",
+    "scientificName": "Notechis scutatus",
+    "venomous": true
+  },
+  {
+    "id": 17,
+    "name": "Boa Constrictor",
+    "scientificName": "Boa constrictor",
+    "venomous": false
+  },
+  {
+    "id": 18,
+    "name": "Copperhead",
+    "scientificName": "Agkistrodon contortrix",
+    "venomous": true
+  },
+  {
+    "id": 19,
+    "name": "Eastern Diamondback Rattlesnake",
+    "scientificName": "Crotalus adamanteus",
+    "venomous": true
+  },
+  {
+    "id": 20,
+    "name": "Corn Snake",
+    "scientificName": "Pantherophis guttatus",
+    "venomous": false
+  },
+  {
+    "id": 21,
+    "name": "Black Mamba",
+    "scientificName": "Dendroaspis polylepis",
+    "venomous": true
+  },
+  {
+    "id": 22,
+    "name": "Tiger Snake",
+    "scientificName": "Notechis scutatus",
+    "venomous": true
+  },
+  {
+    "id": 23,
+    "name": "Black Mamba",
+    "scientificName": "Dendroaspis polylepis",
+    "venomous": true
+  },
+  {
+    "id": 24,
+    "name": "Corn Snake",
+    "scientificName": "Pantherophis guttatus",
+    "venomous": false
+  },
+  {
+    "id": 25,
+    "name": "Ball Python",
+    "scientificName": "Python regius",
+    "venomous": false
+  },
+  {
+    "id": 26,
+    "name": "Eastern Diamondback Rattlesnake",
+    "scientificName": "Crotalus adamanteus",
+    "venomous": true
+  },
+  {
+    "id": 27,
+    "name": "Fer-de-Lance",
+    "scientificName": "Bothrops asper",
+    "venomous": true
+  },
+  {
+    "id": 28,
+    "name": "Bush Viper",
+    "scientificName": "Atheris squamigera",
+    "venomous": true
+  },
+  {
+    "id": 29,
+    "name": "Banded Krait",
+    "scientificName": "Bungarus fasciatus",
+    "venomous": true
+  },
+  {
+    "id": 30,
+    "name": "Indian Python",
+    "scientificName": "Python molurus",
+    "venomous": false
+  },
+  {
+    "id": 31,
+    "name": "Red-bellied Black Snake",
+    "scientificName": "Pseudechis porphyriacus",
+    "venomous": true
+  },
+  {
+    "id": 32,
+    "name": "Garter Snake",
+    "scientificName": "Thamnophis sirtalis",
+    "venomous": false
+  },
+  {
+    "id": 33,
+    "name": "Vine Snake",
+    "scientificName": "Ahaetulla nasuta",
+    "venomous": false
+  },
+  {
+    "id": 34,
+    "name": "Red-bellied Black Snake",
+    "scientificName": "Pseudechis porphyriacus",
+    "venomous": true
+  },
+  {
+    "id": 35,
+    "name": "Fer-de-Lance",
+    "scientificName": "Bothrops asper",
+    "venomous": true
+  },
+  {
+    "id": 36,
+    "name": "Vine Snake",
+    "scientificName": "Ahaetulla nasuta",
+    "venomous": false
+  },
+  {
+    "id": 37,
+    "name": "Red-bellied Black Snake",
+    "scientificName": "Pseudechis porphyriacus",
+    "venomous": true
+  },
+  {
+    "id": 38,
+    "name": "Corn Snake",
+    "scientificName": "Pantherophis guttatus",
+    "venomous": false
+  },
+  {
+    "id": 39,
+    "name": "Vine Snake",
+    "scientificName": "Ahaetulla nasuta",
+    "venomous": false
+  },
+  {
+    "id": 40,
+    "name": "Fer-de-Lance",
+    "scientificName": "Bothrops asper",
+    "venomous": true
+  },
+  {
+    "id": 41,
+    "name": "Green Tree Python",
+    "scientificName": "Morelia viridis",
+    "venomous": false
+  },
+  {
+    "id": 42,
+    "name": "Corn Snake",
+    "scientificName": "Pantherophis guttatus",
+    "venomous": false
+  },
+  {
+    "id": 43,
+    "name": "Corn Snake",
+    "scientificName": "Pantherophis guttatus",
+    "venomous": false
+  },
+  {
+    "id": 44,
+    "name": "Corn Snake",
+    "scientificName": "Pantherophis guttatus",
+    "venomous": false
+  },
+  {
+    "id": 45,
+    "name": "Rough Green Snake",
+    "scientificName": "Opheodrys aestivus",
+    "venomous": false
+  },
+  {
+    "id": 46,
+    "name": "Taipan",
+    "scientificName": "Oxyuranus scutellatus",
+    "venomous": true
+  },
+  {
+    "id": 47,
+    "name": "Vine Snake",
+    "scientificName": "Ahaetulla nasuta",
+    "venomous": false
+  },
+  {
+    "id": 48,
+    "name": "Garter Snake",
+    "scientificName": "Thamnophis sirtalis",
+    "venomous": false
+  },
+  {
+    "id": 49,
+    "name": "Fer-de-Lance",
+    "scientificName": "Bothrops asper",
+    "venomous": true
+  },
+  {
+    "id": 50,
+    "name": "Corn Snake",
+    "scientificName": "Pantherophis guttatus",
+    "venomous": false
+  },
+  {
+    "id": 51,
+    "name": "Bush Viper",
+    "scientificName": "Atheris squamigera",
+    "venomous": true
+  },
+  {
+    "id": 52,
+    "name": "Bush Viper",
+    "scientificName": "Atheris squamigera",
+    "venomous": true
+  },
+  {
+    "id": 53,
+    "name": "Boa Constrictor",
+    "scientificName": "Boa constrictor",
+    "venomous": false
+  },
+  {
+    "id": 54,
+    "name": "Bush Viper",
+    "scientificName": "Atheris squamigera",
+    "venomous": true
+  },
+  {
+    "id": 55,
+    "name": "Milk Snake",
+    "scientificName": "Lampropeltis triangulum",
+    "venomous": false
+  },
+  {
+    "id": 56,
+    "name": "Corn Snake",
+    "scientificName": "Pantherophis guttatus",
+    "venomous": false
+  },
+  {
+    "id": 57,
+    "name": "Milk Snake",
+    "scientificName": "Lampropeltis triangulum",
+    "venomous": false
+  },
+  {
+    "id": 58,
+    "name": "Fer-de-Lance",
+    "scientificName": "Bothrops asper",
+    "venomous": true
+  },
+  {
+    "id": 59,
+    "name": "King Cobra",
+    "scientificName": "Ophiophagus hannah",
+    "venomous": true
+  },
+  {
+    "id": 60,
+    "name": "King Cobra",
+    "scientificName": "Ophiophagus hannah",
+    "venomous": true
+  },
+  {
+    "id": 61,
+    "name": "King Cobra",
+    "scientificName": "Ophiophagus hannah",
+    "venomous": true
+  },
+  {
+    "id": 62,
+    "name": "Garter Snake",
+    "scientificName": "Thamnophis sirtalis",
+    "venomous": false
+  },
+  {
+    "id": 63,
+    "name": "Fer-de-Lance",
+    "scientificName": "Bothrops asper",
+    "venomous": true
+  },
+  {
+    "id": 64,
+    "name": "Red-bellied Black Snake",
+    "scientificName": "Pseudechis porphyriacus",
+    "venomous": true
+  },
+  {
+    "id": 65,
+    "name": "Banded Krait",
+    "scientificName": "Bungarus fasciatus",
+    "venomous": true
+  },
+  {
+    "id": 66,
+    "name": "Black Mamba",
+    "scientificName": "Dendroaspis polylepis",
+    "venomous": true
+  },
+  {
+    "id": 67,
+    "name": "King Cobra",
+    "scientificName": "Ophiophagus hannah",
+    "venomous": true
+  },
+  {
+    "id": 68,
+    "name": "Black Mamba",
+    "scientificName": "Dendroaspis polylepis",
+    "venomous": true
+  },
+  {
+    "id": 69,
+    "name": "Tiger Snake",
+    "scientificName": "Notechis scutatus",
+    "venomous": true
+  },
+  {
+    "id": 70,
+    "name": "Milk Snake",
+    "scientificName": "Lampropeltis triangulum",
+    "venomous": false
+  },
+  {
+    "id": 71,
+    "name": "Tiger Snake",
+    "scientificName": "Notechis scutatus",
+    "venomous": true
+  },
+  {
+    "id": 72,
+    "name": "Indian Python",
+    "scientificName": "Python molurus",
+    "venomous": false
+  },
+  {
+    "id": 73,
+    "name": "Tiger Snake",
+    "scientificName": "Notechis scutatus",
+    "venomous": true
+  },
+  {
+    "id": 74,
+    "name": "Fer-de-Lance",
+    "scientificName": "Bothrops asper",
+    "venomous": true
+  },
+  {
+    "id": 75,
+    "name": "Ball Python",
+    "scientificName": "Python regius",
+    "venomous": false
+  },
+  {
+    "id": 76,
+    "name": "Fer-de-Lance",
+    "scientificName": "Bothrops asper",
+    "venomous": true
+  },
+  {
+    "id": 77,
+    "name": "King Cobra",
+    "scientificName": "Ophiophagus hannah",
+    "venomous": true
+  },
+  {
+    "id": 78,
+    "name": "Banded Krait",
+    "scientificName": "Bungarus fasciatus",
+    "venomous": true
+  },
+  {
+    "id": 79,
+    "name": "Milk Snake",
+    "scientificName": "Lampropeltis triangulum",
+    "venomous": false
+  },
+  {
+    "id": 80,
+    "name": "Indian Python",
+    "scientificName": "Python molurus",
+    "venomous": false
+  },
+  {
+    "id": 81,
+    "name": "Garter Snake",
+    "scientificName": "Thamnophis sirtalis",
+    "venomous": false
+  },
+  {
+    "id": 82,
+    "name": "Fer-de-Lance",
+    "scientificName": "Bothrops asper",
+    "venomous": true
+  },
+  {
+    "id": 83,
+    "name": "Corn Snake",
+    "scientificName": "Pantherophis guttatus",
+    "venomous": false
+  },
+  {
+    "id": 84,
+    "name": "Green Tree Python",
+    "scientificName": "Morelia viridis",
+    "venomous": false
+  },
+  {
+    "id": 85,
+    "name": "King Cobra",
+    "scientificName": "Ophiophagus hannah",
+    "venomous": true
+  },
+  {
+    "id": 86,
+    "name": "Milk Snake",
+    "scientificName": "Lampropeltis triangulum",
+    "venomous": false
+  },
+  {
+    "id": 87,
+    "name": "Eastern Diamondback Rattlesnake",
+    "scientificName": "Crotalus adamanteus",
+    "venomous": true
+  },
+  {
+    "id": 88,
+    "name": "Tiger Snake",
+    "scientificName": "Notechis scutatus",
+    "venomous": true
+  },
+  {
+    "id": 89,
+    "name": "Black Mamba",
+    "scientificName": "Dendroaspis polylepis",
+    "venomous": true
+  },
+  {
+    "id": 90,
+    "name": "Garter Snake",
+    "scientificName": "Thamnophis sirtalis",
+    "venomous": false
+  },
+  {
+    "id": 91,
+    "name": "Taipan",
+    "scientificName": "Oxyuranus scutellatus",
+    "venomous": true
+  },
+  {
+    "id": 92,
+    "name": "Ball Python",
+    "scientificName": "Python regius",
+    "venomous": false
+  },
+  {
+    "id": 93,
+    "name": "Copperhead",
+    "scientificName": "Agkistrodon contortrix",
+    "venomous": true
+  },
+  {
+    "id": 94,
+    "name": "Vine Snake",
+    "scientificName": "Ahaetulla nasuta",
+    "venomous": false
+  },
+  {
+    "id": 95,
+    "name": "Corn Snake",
+    "scientificName": "Pantherophis guttatus",
+    "venomous": false
+  },
+  {
+    "id": 96,
+    "name": "Banded Krait",
+    "scientificName": "Bungarus fasciatus",
+    "venomous": true
+  },
+  {
+    "id": 97,
+    "name": "Eastern Diamondback Rattlesnake",
+    "scientificName": "Crotalus adamanteus",
+    "venomous": true
+  },
+  {
+    "id": 98,
+    "name": "Banded Krait",
+    "scientificName": "Bungarus fasciatus",
+    "venomous": true
+  },
+  {
+    "id": 99,
+    "name": "Ball Python",
+    "scientificName": "Python regius",
+    "venomous": false
+  },
+  {
+    "id": 100,
+    "name": "Red-bellied Black Snake",
+    "scientificName": "Pseudechis porphyriacus",
+    "venomous": true
+  }
+]
