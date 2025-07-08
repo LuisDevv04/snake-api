@@ -13,7 +13,7 @@ const port = process.env.PORT || 3000;
 app.use(cors());
 
 const snakes = JSON.parse(
-  fs.readFileSync(path.join(__dirname, "snakes.json"), "utf-8")
+  fs.readFileSync(path.join(_dirname, "snakes.json"), "utf-8")
 );
 
 app.get("/api/snakes", (req, res) => {
